@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Deployment</title>
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+  
+</head>
+
+<body style="background: rgb(205, 218, 246);">
+ <div class="login">
+
+	<h1>Prediksi Emosi Menggunakan LSTM</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+
+    <form action = "/" method="POST">
+        <input type="text" name="pred" placeholder="Masukkan kalimat" required="required" id="pred" />
+        <br> <br> 
+        <button type="submit" class="btn btn-primary btn-block btn-large">Prediksi</button>
+    </form>
+
+   <br>
+   <br>
+   {% if prediction != "-" %} 
+   {% if prediction == 0 %} Happy 
+   {% elif prediction == 1 %} Sadness 
+   {% elif prediction == 2 %} Anger 
+   {% elif prediction == 3 %} Love 
+   {% elif prediction == 4 %} Fear 
+   {% else %} {{prediction}}
+   {% endif %}
+   {% endif %}
+
+</body>
+</div>
+<a href="{{ url_for('upload') }}" class="link-with-dimensions">Uji Data</a>
+</html>

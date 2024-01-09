@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Confusion Matrix</title>
+    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <style>
+        /* CSS styling */
+        body{
+            font-family: 'Lato', sans-serif;
+        }
+        table {
+            border-collapse: collapse;
+            width: 50%;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: center;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Confusion Matrix</h2>
+
+<!-- Tampilkan confusion matrix dalam tabel -->
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Happy</th>
+            <th>Sadness</th>
+            <th>Anger</th>
+            <th>Love</th>
+            <th>Fear</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Happy</td>
+            <td>{{ confusion_matrix[0][0] }}</td>
+            <td>{{ confusion_matrix[0][1] }}</td>
+            <td>{{ confusion_matrix[0][2] }}</td>
+            <td>{{ confusion_matrix[0][3] }}</td>
+            <td>{{ confusion_matrix[0][4] }}</td>
+        </tr>
+        <tr>
+            <td>Sadness</td>
+            <td>{{ confusion_matrix[1][0] }}</td>
+            <td>{{ confusion_matrix[1][1] }}</td>
+            <td>{{ confusion_matrix[1][2] }}</td>
+            <td>{{ confusion_matrix[1][3] }}</td>
+            <td>{{ confusion_matrix[1][4] }}</td>
+        </tr>
+        <tr>
+            <td>Anger</td>
+            <td>{{ confusion_matrix[2][0] }}</td>
+            <td>{{ confusion_matrix[2][1] }}</td>
+            <td>{{ confusion_matrix[2][2] }}</td>
+            <td>{{ confusion_matrix[2][3] }}</td>
+            <td>{{ confusion_matrix[2][4] }}</td>
+        </tr>
+        <tr>
+            <td>Love</td>
+            <td>{{ confusion_matrix[3][0] }}</td>
+            <td>{{ confusion_matrix[3][1] }}</td>
+            <td>{{ confusion_matrix[3][2] }}</td>
+            <td>{{ confusion_matrix[3][3] }}</td>
+            <td>{{ confusion_matrix[3][4] }}</td>
+        </tr>
+        <tr>
+            <td>Fear</td>
+            <td>{{ confusion_matrix[4][0] }}</td>
+            <td>{{ confusion_matrix[4][1] }}</td>
+            <td>{{ confusion_matrix[4][2] }}</td>
+            <td>{{ confusion_matrix[4][3] }}</td>
+            <td>{{ confusion_matrix[4][4] }}</td>
+        </tr>
+    </tbody>
+</table>
+
+<h2>Evaluasi Model</h2>
+
+<!-- Tampilkan nilai akurasi, precision, dan recall -->
+<p>Accuracy: {{ accuracy }}</p>
+<p>Precision: {{ precision }}</p>
+<p>Recall: {{ recall }}</p>
+<p>F1-Score: {{ f1 }}</p>
+
+</body>
+</html>

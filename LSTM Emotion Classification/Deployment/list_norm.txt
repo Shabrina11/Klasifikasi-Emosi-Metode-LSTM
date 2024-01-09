@@ -1,0 +1,914 @@
+abis: habis
+alloh: allah
+alesan: alasan
+aamiin: amin
+acc: terima
+alhamdulilahnya: alhamdulillah nya
+apah: apa
+alhasil: hasil
+adek: adik
+alay: berlebihan
+apk: aplikasi
+app: aplikasi
+apps: aplikasi
+apknya: aplikasinya
+apk nya: aplikasinya
+apes: sial
+amat: sangat
+account: akun
+ampe: sampai
+anniv: hari jadi
+anniversary: hari jadi
+balikin: balikkan
+baper:  bawa perasaan
+barangya: barangnya
+bgus: bagus
+bayarin: bayar
+baristanya: barista
+baguss: bagus
+berantakin: berantakan
+bagusss: bagus
+bobo: tidur
+best: terbaik
+bongkarin: bongkar
+bobok: tidur
+bener: benar
+bahagiain: membahagiakan
+bersebrangan: seberang
+buset: astaga
+beres: selesai
+bego: bodoh
+bodo: bodoh
+biar: supaya
+bagaimanapun: bagaimana
+bkl: bakal
+blm: belum
+blom: belum
+blum: belum
+belom: belum
+bgt: banget
+bekel: bekal
+block: blokir
+bersihin: bersih
+bet: banget
+bngt: banget
+bnget: banget
+bln: bulan
+banya: banyak
+bnyk: banyak
+beraniin: berani
+balek: balik
+byk: banyak
+banyangin: bayang
+bareng: bersama
+bnyak: banyak
+bingit: banget
+bubarin: bubar
+berasa: rasa
+batalin: batalkan
+bila: jika
+brengsek: berengsek
+beneran: benar
+bosen: bosan
+bosenan: bosan
+bhs: bahasa
+berterimakasih: berterima kasih
+brrti: berarti
+barusan: baru
+bs: bisa
+budget: biaya
+bantuin: bantu
+bcz: karena
+bsa: bisa
+bosque: bos
+blg: bilang
+benerin: benar
+biarin: biar
+bu: ibu
+beneran: benar
+bsk: besok
+becandaan: canda
+bad: buruk
+becanda: canda
+bbrp: beberapa
+bokap: ayah
+btw: ngomong ngomong
+buktiin: bukti
+bpk: bapak
+bales: balas
+bls: balas
+bles: balas
+bapa: bapak
+casback: cashback
+cekout: check out
+cek out: check out
+checkout: check out
+cewe: perempuan
+cewek: perempuan
+cariin: cari
+cape: capek
+cwe: perempuan
+cowo: cowok
+cwo:cowok
+cm: cuma
+confirm: konfirmasi
+cmn: hanya
+cuman: hanya
+cuan: uang
+cpt: cepat
+cpet: cepat
+cepet: cepat
+cocot: omongan
+congratulation: selamat
+congrats: selamat
+cantek: cantik
+dgn: dengan
+diem: diam
+dateng: datang
+dg: dengan
+dospem: dosen pembimbing
+didiemin: diam
+dl: dulu
+dr: dari
+dri: dari
+dengernya: dengar
+denger: dengar
+d aplikasi: di aplikasi
+diingetin: ingat
+dengerin: dengar
+d acc: diterima
+diamatin: amat
+di gunakan: digunakan
+dibalikin: dibalikkan
+dibully: bully
+ditegor: tegur
+dibenerin: benar
+disakitin: sakit
+dianggep: anggap
+di benahi: dibenahi
+diiyain: iya
+dipijet: pijat
+di bebani: dibebani
+dibantuin: bantu
+di banding: dibanding
+di bikin: dibuat
+dibikin: dibuat
+ditelponin: telepon
+dilakuin: dilakukan
+digambar: di gambar
+dipake: dipakai
+ditemuin: temu
+dilaporin: lapor
+di jangkau: dijangkau
+ditakutin: takut
+di perbaiki: diperbaiki
+di pke: dipakai
+di kasi: diberi
+di kasih: diberi
+deketin: dekat
+dianterin: antar
+dijahatin: jahat
+diceritain: cerita
+dibolehin: boleh
+di kurangin: dikurangi
+dgnnya: dengannya
+dikembaliin: dikembalikan
+dilewatin: lewat
+dikurangin: dikurangi
+diginiin: gini
+di kurangin: dikurangi
+di minati: diminati
+di pesan: dipesan
+dikecewain: kecewa
+dimusuhin: musuh
+dimaafin: maaf
+dimaaapin: maaf
+di rugikan: dirugikan
+di sesuaikan: disesuaikan
+dilepasin: lepas
+diurusin: urus
+di serahkan: diserahkan
+di tes: dites
+di update: diupdate
+diapain: apa
+dibiasin: dibiaskan
+disalahin: salah
+dpn: depan
+ditangisin: tangis
+dalem: dalam
+dilecehin: leceh
+dibales: dibalas
+ditunjukin: tunjuk
+ditunjukkin: tunjuk
+dimarahin: marah
+drummer: pemain drum
+dicariin: cari
+diperjuangin: juang
+dpt: dapat
+dtg: datang
+diomongin: omong
+dpet: dapat
+dpat: dapat
+dapet: dapat
+diceramahin: ceramah
+dikirimin: kirim
+dtng: datang
+dinkes: dinas kesehatan
+dibales: dibalas
+duit: uang
+duh: aduh
+dll: dan lain lain
+e comer: e commerce
+expedisi: ekspedisi
+ekpedisi: ekspedisi
+expres: express
+excited: semangat
+event: acara
+edit: sunting
+enggak: tidak
+engga: tidak
+emang: memang
+emg: memang
+emak: ibu
+entar: nanti
+esok: besok
+emng: memang
+ensenang: senang
+elo: kamu
+elu: kamu
+ente: kamu
+favorite: favorit
+friend: teman
+feeling: rasa
+gue: aku
+gua: aku
+gw: aku
+gemeteran: gemetar
+gemeter: gemetar
+gk: tidak
+ga: tidak
+gede: besar
+gaboleh: tidak boleh
+gabole: tidak boleh
+gak: tidak
+ggl: gagal
+ggal: gagal
+gaperlu: tidak perlu
+gabisa: tidak bisa
+gemes: gemas
+gamenya: game nya
+gapernah: tidak pernah
+gambarin: gambar
+gegara: gara
+gamau: tidak mau
+gaada: tidak ada
+ga percaya: tidak percaya
+gemesin: menggemaskan
+gahar: kuat
+gimana: bagaimana
+gimane: bagaimana
+gmna: bagaimana
+gapunya: tidak punya
+gausah: tidak usah
+gausa: tidak usah
+gmn: bagaimana
+gatel: gatal
+gini: begini
+gapada: tidak pada
+gitu: begitu
+gituin: begitu
+gasalah: tidak salah
+goblok: bodoh
+goblog: bodoh
+gt: begitu
+geger: gempar
+gub: gubernur
+geter: getar
+guys: teman teman
+gasuka: tidak suka
+gaes: teman teman
+gimanapun: bagaimana
+grgr: gara gara
+gais: teman teman
+ges: teman teman
+gpp: tidak apa apa
+gapapa: tidak apa apa
+gapake: tidak pakai
+gppa: tidak apa apa
+gituan: begitu
+good: baik
+gakenal: tidak kenal
+gabetah: tidak betah
+gatau: tidak tahu
+god: tuhan
+happy birthday: selamat ulang tahun
+hepibesdey: selamat ulang tahun
+hbd: selamat ulang tahun
+habede: selamat ulang tahun
+happy: bahagia
+hrs: harus
+hrus: harus
+hutang: utang
+haduh: aduh
+hadeh: aduh
+harassment: leceh
+hang: lambat
+hate: benci
+hepi: bahagia
+hps: hapus
+home: rumah
+hpsin: hapuskan
+hsl: hasil
+hilangin: hilang
+hrpn: harapan
+hrg: harga
+help desk: meja bantuan
+helo: halo
+happen: terjadi
+hello: halo
+hallo: halo
+hbs: habis
+info: informasi
+iyaa: iya
+iyaaa: iya
+inget: ingat
+imbangin: imbang
+ilang: hilang
+ilangin: hilang
+ibunda: ibu
+idung: hidung
+jd: jadi
+jdi: jadi
+jastip: jasa titip
+jalaninnya: jalan
+jau: jauh
+jaman: zaman
+jg: juga
+jagain: jaga
+jln: jalan
+jumbo: besar
+jejeritan: teriak
+jt: juta
+jm: jam
+jgn: jangan
+jatoh: jatuh
+jato: jatuh
+jawabin: jawab
+jiji: jijik
+jijiq: jijik
+judge: nilai
+julidnya: julid
+jalanin: jalan
+jalani: jalan
+jwb: jawab
+kagak: tidak
+kdang: kadang
+kgk: tidak
+kaga: tidak
+karna: karena
+krn: karena
+krna: karena
+kelar: selesai
+kemaren: kemarin
+konsul: konsultasi
+keaaman: keamanan
+kepingin: ingin
+kcewa: kecewa
+keteranganya: keterangannya
+kedepannya: ke depannya
+kebih: lebih
+kenceng: kencang
+kesel: kesal
+ke refresh: terrefresh
+ketambah: tertambah
+klw: kalo
+kk: kakak
+kalau: kalo
+klean: kalian
+ksl: kesal
+kasi: kasih
+kirain: kira
+kecatet: catat
+ksi: kasih
+ksih: kasih
+kdg: kadang
+ketidakberdayaan: tidak berdaya
+kelar: selesai
+ksh: kasih
+ksl: kesal
+ketelen: telan
+kpd: kepada
+kesel: kesal
+ksel: kesal
+kmrn: kemarin
+kmbli: kembali
+kmarn: kemarin
+kasian: kasihan
+kmu: kamu
+kmarin: kemarin
+knp: kenapa
+knpa: kenapa
+komplit: lengkap
+kudu: harus
+krucil: anak
+kwalitas: kualitas
+kepepet: dekat
+krn: karena
+kasi: kasih
+kejer: kejar
+kabarin: kabar
+kabari: kabar
+kendaliin: kendali
+krna: karena
+knl: kenal
+kasianin: kasihan
+kpn: kapan
+lu: kamu
+loe: kamu
+lo: kamu
+lebay: berlebihan
+laen: lain
+lbh: lebih
+lewatin: lewat
+lgsg: langsung
+lbih: lebih
+lagii: lagi
+lg: lagi
+lgi: lagi
+lag: lambat
+lma: lama
+leg: lambat
+laper: lapar
+lost: hilang
+lelet: lambat
+leled: lambat
+lemot: lambat
+lemott: lambat
+lakuin: laku
+lptop: komputer
+laptop: komputer
+loadingnya: loading nya
+loadnya: loading nya
+love: cinta
+liat: lihat
+macem: macam
+mamak: ibu
+mama: ibu
+maap: maaf
+mamah: ibu
+malem: malam
+makasih: terima kasih
+makasi: terima kasih
+mksih: terima kasih
+mamah: ibu
+masi: masih
+msh: masih
+msih: masih
+mhl: mahal
+mksh: terima kasih
+menikah: nikah
+moment: momen
+make: pakai
+merjuangin: juang
+mke: pakai
+maksa: paksa
+makin: semakin
+malah: justru
+males: malas
+mls: malas
+mlz: malas
+mles: malas
+mijet: pijat
+mlas: malas
+mkn: makan
+mending: lebih baik
+mommy: ibu
+marahin: marah
+mostly: kebanyakan
+mendem: pendam
+mom: ibu
+memesan: pesan
+menyebalkan: kesal
+memo: memori
+mesen: pesan
+miss: rindu
+menye: lemah
+mesan: pesan
+mikir: pikir
+milih: pilih
+maafin: maaf
+misquen: miskin
+mutusin: putus
+matiin: mati
+misqueen: miskin
+menemani: teman
+mikirin: pikir
+mengabari: kabar
+mikir: pikir
+mimin: admin
+mulu: terus
+mayan: lumayan
+majuin: maju
+muter: putar
+mengapa: kenapa
+mentingin: penting
+malesan: malas
+msukan: masuk
+mengabarkan: kabar
+matung: patung
+mak: ibu
+maleman: malam
+menyambut: sambut
+mslh: masalah
+mlm: malam
+mslah: masalah
+menindaklanjutin: tindak lanjut
+merasa: rasa
+msk: masuk
+mw: mau
+manasin: panas
+moga: semoga
+musuhin: musuh
+mikirnya: pikir
+nerima: terima
+nampil: tampil
+nanggepin: tanggap
+nurutin: turut
+ngedeteksi: deteksi
+nambah: tambah
+ngaur: aneh
+ngirim: kirim
+ngedit: sunting
+ninggalin: tinggal
+nari: tari
+nyindir: sindir
+ngenalin: kenal
+ngoreksi: koreksi
+ngerasa: rasa
+ngawur: aneh
+netizen: warganet
+ngembaliin: kembali
+ngerusak: rusak
+nyemburuin: cemburu
+nancep: tancap
+nyokap: ibu
+ngelakuin: laku
+nenangin: tenang
+netijen: warganet
+nabrak: tabrak
+ngebunuh: bunuh
+nampak: tampak
+ngikut: ikut
+nurunin: turun
+nemu: ketemu
+ngusut: usut
+ngakak: ketawa
+ndak: tidak
+ngasih: memberi
+ngungkapinnya: ungkap
+ngeleg: lambat
+numbuhin: tumbuh
+numbuh: tumbuh
+nyenengin: senang
+ngaji: kaji
+ngemis: emis
+nyinggung: singgung
+ngelahirin: lahir
+nyoba: coba
+ngincer: incar
+ngejelasin: jelas
+nanya: tanya
+ngeselin: kesal
+ngabarin: kabar
+ngutang: hutang
+ngejar: kejar
+nerusin: terus
+ngegemesin: menggemaskan
+ngomongin: omong
+ngk: tidak
+ngga: tidak
+nyuruh: suruh
+ngelahirin: lahir
+nyampah: sampah
+nimbang: timbang
+nggk: tidak
+ngena: kena
+ngurusin: urus
+nggak: tidak
+ngebuat: buat
+ngeri: seram
+ngeluh: keluh
+ngeratapin: ratap
+nganggep: anggap
+nganggap: anggap
+ngebuktiin: bukti
+ngotak: masuk akal
+nulis: tulis
+ngehujat: hujat
+nonton: tonton
+nempel: tempel
+ngejalaninnya: jalan
+ngejalanin: jalan
+ngeliat: lihat
+nyari: mencari
+nyesel: menyesal
+nyesal: menyesal
+nyerem: seram
+ngertiin: erti
+ngejelekin: jelek
+ngerasain: rasa
+nyekolahin: sekolah
+ngerti: erti
+nongol: muncul
+nunjukin: tunjuk
+nyalahin: salah
+ngimpiin: mimpi
+nyiapin: siap
+nyeremin: seram
+ngerjainnya: kerja
+ngerjain: kerja
+nyeram: seram
+ngajarin: ajar
+nyinyirin: nyinyir
+negri: negeri
+ntr: nanti
+ngurus: urus
+nyedot: sedot
+nungguin: tunggu
+nikmatin: nikmat
+nyebelin: kesal
+nangis: tangis
+nyusahin: menyusahkan
+ngambil: ambil
+nyampe: sampai
+ngalamin: alam
+ngangenin: kangen
+ngucapin: ucap
+ngulang: ulang
+nanyain: tanya
+netijennya: warganet
+nyampek: sampai
+ngabisin: habis
+ngebet: ingin
+ngenakin: enak
+ngembaliin: kembali
+ngingetin: ingat
+nemuin: menemukan
+ngomong: omong
+ngehilangin: hilang
+ngebayangin: bayang
+nyambung: sambung
+ngumpul: kumpul
+nolak: tolak
+nyapanya: sapa
+nyapa: sapa
+naikin: naik
+ngomel: omel
+ngebahas: bahas
+ngajak: ajak
+nakutin: takut
+nyakitin: sakit
+ngerusuh: rusuh
+nunggunya: tunggu
+ngepas: pas
+next: selanjutnya
+nengok: lihat
+ngebekas: bekas
+nyenengin: menyenangkan
+ntar: nanti
+tar: nanti
+ongkirnya: ongkir nya
+org: orang
+ortu: orang tua
+orng: orang
+ortunya: orang tua
+olshop: toko online
+official: resmi
+pilpres: pemilihan presiden
+pdkt: pendekatan
+piye: bagaimana
+plis: tolong
+please: tolong
+puyeng: pusing
+pntes: pantas
+pantes: pantas
+pls: tolong
+pengemis: emis
+pdhl: padahal
+pdhal: padahal
+papi: ayah
+papa: ayah
+pikirin: pikir
+pingin: ingin
+papah: ayah
+pliss: tolong
+plis: tolong
+proud: bangga
+please: tolong
+perhatiin: hati
+pake: pakai
+pressure: tekanan
+pakek: pakai
+pke: pakai
+pedes: pedas
+pentint: penting
+perbaiki: diperbaiki
+pnting: penting
+problem: masalah
+pgn: ingin
+pinginnya: ingin
+pengen: ingin
+pen: ingin
+perform: tampil
+psn: pesan
+pesen: pesan
+pensngsnannya: pesanannya
+pembelinya: pembeli nya
+pengirimam: pengiriman
+permaluin: malu
+pinter: pintar
+parnoan: parno
+prudoknya: produknya
+puter: putar
+paksain: paksa
+prof: profesor
+pst: pasti
+ponakan: keponakan
+qt: kita
+quote: kutip
+quotes: kutip
+rame: ramai
+rada: agak
+rapet: rapat
+rest: istirahat
+rb: ribu
+repotin: repot
+rs: rumah sakit
+risiko: resiko
+rasain: rasa
+responya: respon nya
+sampe: sampai
+sampek: sampai
+smpt: sempat
+smpat: sempat
+sempet: sempat
+sebenernya: benar
+smpet: sempat
+sbl: kesal
+smpe: sampai
+sebel: kesal
+serasa: rasa
+sebal: kesal
+senen: senin
+scr: secara
+scra: secara
+sdih: sedih
+stres: stress
+seneng: senang
+serem: seram
+sellernya: seller nya
+simple: simpel
+semanis: manis
+sharing: berbagi
+simple: simpel
+surprise: kejutan
+skrg: sekarang
+sepenuh: penuh
+syurga: surga
+skrng: sekarang
+save: simpan
+salting: salah tingkah
+skrang: sekarang
+something: sesuatu
+sekrang: sekarang
+skarang: sekarang
+sumbangsih: bantuan
+stop: berhenti
+sexual: seksual
+smua: semua
+smga: semoga
+search: cari
+semalem: malam
+searching: cari
+samsek: sama sekali
+skit: sakit
+sempuran: sempurna
+stiap: setiap
+sbtr: sebentar
+sbntr: sebentar
+sudh: sudah
+sdh: sudah
+smg: semoga
+smoga: semoga
+someone: seseorang
+sngt: sangat
+sngat: sangat
+slalu: selalu
+srek: suka
+syg: sayang
+syng: sayang
+sayank: sayang
+slh: salah
+stiap: setiap
+seksama: saksama
+soft: lembut
+sdg: sedang
+sdng: sedang
+sodara: saudara
+sblm: sebelum
+sblum: sebelum
+tak: tidak
+tau: tahu
+takan: tidak akan
+tampa: tanpa
+tdk: tidak
+tdak: tidak
+tidak senang: benci
+tidak suka: benci
+tidak bahagia: sedih
+terkadang: kadang
+taun: tahun
+tetiba: tiba tiba
+temenku: teman
+temenin: teman
+tida: tidak
+tutupin: tutup
+tgs: tugas
+tdr: tidur
+tengok: lihat
+tbtb: tiba tiba
+takutin: takut
+temuin: temu
+thr: tunjangan hari raya
+tajem: tajam
+trimakasih: terima kasih
+terimakasih: terima kasih
+trm ksh: terima kasih
+tp: tapi
+tpi: tapi
+tq: terima kasih
+telpon: telepon
+temennya: teman
+telfon: telepon
+tenan: banget
+tingkatin: ditingkatkan
+tetep: tetap
+temenku: teman saya
+ttep: tetap
+ttp: tetap
+trs: terus
+telfon: telepon
+tweter: twitter
+twiter: twitter
+tweeter: twitter
+ttg: tentang
+tiada: tidak ada
+trus: terus
+thn: tahun
+tros: terus
+tambahin: tambah
+teros: terus
+tau: tahu
+tgl: tanggal
+tw: tahu
+tkut: takut
+tkt: takut
+topup: top up
+tolol: bodoh
+thank: terima kasih
+thanks: terima kasih
+thank u: terima kasih
+thank you: terima kasih
+tks: terima kasih
+tsb: tersebut
+ttd: tanda tangan
+temen: teman
+temen2: teman teman
+type: tipe
+tmpt: tempat
+tmn: teman
+nunggu: tunggu
+udah: sudah
+univ: universitas
+ulet: ulat
+udh: sudah
+ultah: ulang tahun
+ujan: hujan
+utk: untuk
+udahan: sudah
+untk: untuk
+vidio: video
+viralkan: viral
+visit: kunjung
+verivikasi: verifikasi
+vibes: aura
+vouchernya: voucher nya
+waduh: aduh
+wduh: aduh
+wkt: waktu
+wktu: waktu
+wait: tunggu
+wife: istri
+walopun: walaupun
+waduhhh: aduh
+yaudah: iya sudah

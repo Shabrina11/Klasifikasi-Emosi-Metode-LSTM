@@ -1,0 +1,35 @@
+@startuml "Class Diagram"
+class globalProcess{
+    + text: str
+    + dict_koreksi: dict
+    + stopword_sastrawi: list
+    + stopword_nltk: set
+    + dataset: dataframe
+    + X: list
+    + prediction: ndarray
+    + result: int
+    + clean_text(self, text)
+    + tts(self, text)
+    + predict(self, content)
+    + ttsequence(self, text)
+}
+
+interface Main{
+    + prediction: int
+    + InputUser: str
+    + home()
+}
+
+interface upload{
+    + data: dataframe
+    + X_train: ndarray
+    + X_test: ndarray
+    + y_train: ndarray
+    + y_test: ndarray
+    + predict()
+    + upload()
+}
+
+globalProcess --* Main
+globalProcess --*upload
+@enduml
